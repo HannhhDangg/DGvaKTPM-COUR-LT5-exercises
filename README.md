@@ -1,0 +1,4 @@
+- Chương trình chính được cài đặt trong commit 0a5228e.
+- Các ca kiểm thử bao phủ lệnh được cài đặt trong commit ddf4e6c.
+- Các ca kiểm thử bao phủ đường đi được cài đặt trong commit 89baa55.
+- Đã tạo 2 issue tương ứng và giải quyết từng issue bằng commit riêng.
